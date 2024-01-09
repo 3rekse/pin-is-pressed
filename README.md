@@ -1,15 +1,4 @@
 
-> Apri questa pagina in [https://3rekse.github.io/pin-is-pressed/](https://3rekse.github.io/pin-is-pressed/)
-
-## Usa come Estensione
-
-Questa repository può essere aggiunta come una **estensione** in MakeCode.
-
-* apri [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clicca su **Nuovo Progetto**
-* fai clic su **Estensioni** nel menu della ruota dentata
-* cerca **https://github.com/3rekse/pin-is-pressed** ed importa
-
 ## Modifica questo progetto
 
 Per modificare questa repository in MakeCode.
